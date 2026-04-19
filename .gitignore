@@ -1,0 +1,27 @@
+# Environment variables — never commit these
+.env
+.env.local
+.env.production
+**/.env
+**/.env.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Build outputs
+.next/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.cursor/
+.vscode/
