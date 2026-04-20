@@ -7,7 +7,7 @@ router = APIRouter()
 
 @router.post("/create-checkout-session")
 async def create_checkout_session():
-    session = stripe.checkout.sessions.create(
+    session = stripe.checkout.Session.create(
         mode="subscription",
         line_items=[{
             "price": settings.stripe_price_id,

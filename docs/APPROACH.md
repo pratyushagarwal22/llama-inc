@@ -31,7 +31,7 @@ locally.
   blind spot during checkout flow
 
 ## Subscription Flow
-[See flow.png in this directory]
+[See flow-diagram.png in this directory]
 
 ## Running Locally
 
