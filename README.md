@@ -13,28 +13,26 @@ See `docs/APPROACH.md` for full setup instructions.
 
 ## How it looks
 
-Screenshots below are from the Stripe test (sandbox) flow. Each title describes what you are seeing.
-
-### Subscription page — this is how it looks
+### Subscription page
 
 ![Subscription page](docs/subscription-page.png)
 
-### Payment page — this is how it looks
+### Payment page
 
 ![Stripe Checkout payment page](docs/payment-page.png)
 
-### Successful payment page — this is how it looks
+### Successful payment page
 
 ![Successful payment confirmation](docs/successful-payment-page.png)
 
-### Stripe dashboard after successful payment — this is how it looks
+### Stripe dashboard after successful payment
 
 ![Stripe dashboard overview after a successful test payment](docs/stripe-dashboard-after-successful-payment.png)
 
-### Payment failure / cancel page — this is how it looks
+### Payment failure / cancel page
 
 ![Payment cancelled or abandoned checkout](docs/payment-failure-page.png)
 
-### Flow diagram — this is how it looks
+### Flow diagram
 
 ![End-to-end subscription flow diagram](docs/flow-diagram.png)
